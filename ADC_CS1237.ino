@@ -1,3 +1,5 @@
+Traducción de la librería funcional en ruso
+
 #include <iarduino_ADC_CS1237.h>                                               // Agegamos la librería para el integrado CS1237.
 iarduino_ADC_CS1237 adc(13,19);                                                // Declara un objeto para trabajar con iarduino_ADC_CS1237, especificando los pines ( SCLK , DATA ). Puedes inicial cualquier terminal Arduino.
                                                                                // Todas las funciones de la biblioteca son opcionales (excepto iniciar), si los valores predeterminados son convenientes.
